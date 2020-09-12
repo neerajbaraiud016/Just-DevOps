@@ -1,0 +1,5 @@
+---
+# file: site.yml
+- import_playbook: workerplaybook-01
+- import_playbook: workerplaybook-02
+- import_playbook: workerplaybook-03
